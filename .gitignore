@@ -1,8 +1,13 @@
+# Gradle
+build/
+.gradle/
+
 # Maven
 target/
 
-# MaryTTS
-log/
+# IDEA
+.idea/
+*.iml
 
 # Eclipse
 .project
@@ -12,5 +17,5 @@ log/
 # OSX
 .DS_Store
 
-# Git
-*.orig
+# MaryTTS
+log/
